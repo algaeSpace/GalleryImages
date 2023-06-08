@@ -1,0 +1,760 @@
+,package_name,app_categories,interaction_type,interaction_style,image_name,model_functionalities
+1,ai.fritz.heartbeat,Libraries and Demo,Fine-Grained Feedback,Object detector,ai.fritz.heartbeat,Image classification
+2,ai.fritz.heartbeat,Libraries and Demo,Fine-Grained Feedback,Object detector,ai.fritz.heartbeat,Image classification
+3,ai.fritz.heartbeat,Libraries and Demo,Fine-Grained Feedback,Object detector,ai.fritz.heartbeat,Face detection
+4,ai.fritz.heartbeat,Libraries and Demo,Fine-Grained Feedback,Personalisation,ai.fritz.heartbeat,Face detection
+5,ai.fritz.heartbeat,Libraries and Demo,Fine-Grained Feedback,Object detector,ai.fritz.heartbeat,Pose detection
+6,ai.fritz.heartbeat,Libraries and Demo,Fine-Grained Feedback,Object detector,ai.fritz.heartbeat,Pose detection
+7,app.plant.identification,Education,Fine-Grained Feedback,Personalisation,app.plant.identification,Image classification
+8,asia.coins.mobile,Finance,Fine-Grained Feedback,Text suggestion,asia.coins.mobile_EE,Entity extraction
+9,ch.zhaw.facerecognition,Libraries and Demo,Fine-Grained Feedback,Object detector,ch.zhaw.facerecognition,Face detection
+10,cn.com.hrcrb.mobilebank.per,Finance,Fine-Grained Feedback,Object marker,cn.com.hrcrb.mobilebank.per,Text recognition
+11,cn.com.hrcrb.mobilebank.per,Finance,Fine-Grained Feedback,Object marker,cn.com.hrcrb.mobilebank.per,Entity extraction
+12,cn.jingling.motu.photowonder,Photography,Fine-Grained Feedback,Personalisation,cn.jingling.motu.photowonder,Face detection
+13,com.aresmob.transmaster,Tools,Fine-Grained Feedback,Personalisation,com.aresmob.transmaster OD,Image classification
+14,com.aresmob.transmaster,Tools,Fine-Grained Feedback,Object detector,com.aresmob.transmaster TR,Text recognition
+15,com.baidu.BaiduMap,Tools,Fine-Grained Feedback,Personalisation,com.baidu.BaiduMap tran dy,Text recognition
+16,com.cam001.selfie,Photography,Fine-Grained Feedback,Object detector,com.cam001.selfie,Face detection
+17,com.cam001.selfie,Photography,Fine-Grained Feedback,Personalisation,com.cam001.selfie,Face detection
+18,com.chinasoft.mall,Shopping,Fine-Grained Feedback,Auditory feedback,com.chinasoft.mall QRCODE,Barcode scanning
+19,com.chinasoft.mall,Shopping,Fine-Grained Feedback,Audio spectrum visual iser,com.chinasoft.mall SR,Speech recongnition
+20,com.clickworker.clickworkerapp,Communication,Fine-Grained Feedback,Object detector,com.clickworker.clickworkerapp_import,Face detection
+21,com.clickworker.clickworkerapp,Communication,Fine-Grained Feedback,Personalisation,com.clickworker.clickworkerapp_import,Face detection
+22,com.cut.cutout.photo.background.editor,Photography,Fine-Grained Feedback,Personalisation,com.cut.cutout.photo.background.editor,Selfie segmentation
+23,com.cyberlink.youcammakeup,Photography,Fine-Grained Feedback,Object detector,com.cyberlink.youcammakeup,Face detection
+24,com.cyberlink.youcammakeup,Photography,Fine-Grained Feedback,Personalisation,com.cyberlink.youcammakeup,Face detection
+25,com.cyberlink.youcammakeup,Photography,Fine-Grained Feedback,Text suggestion,com.cyberlink.youcammakeup,Face detection
+26,com.cyberlink.youcammakeup,Photography,Fine-Grained Feedback,Personalisation,com.cyberlink.youcammakeup_FD,Face detection
+27,com.cyberlink.youcammakeup,Photography,Fine-Grained Feedback,Personalisation,com.cyberlink.youcammakeup_img_seg,Selfie segmentation
+28,com.dailyselfie.newlook.studio,Photography,Fine-Grained Feedback,Personalisation,com.dailyselfie.newlook.studio,Face detection
+29,com.dailyselfie.newlook.studio,Photography,Fine-Grained Feedback,Personalisation,com.dailyselfie.newlook.studio,Selfie segmentation
+30,com.ebay.mobile,Shopping,Fine-Grained Feedback,Audio spectrum visual iser,com.ebay.mobile,Barcode scanning
+31,com.fabbyhair.android,Photography,Fine-Grained Feedback,Object detector,com.fabbyhair.android,Face detection
+32,com.fabbyhair.android,Photography,Fine-Grained Feedback,Personalisation,com.fabbyhair.android,Face detection
+33,com.familyfit.google.baduanjin,Health and Fitness,Fine-Grained Feedback,Auditory feedback,com.familyfit.google.baduanjin,Pose detection
+34,com.familyfit.google.baduanjin,Health and Fitness,Fine-Grained Feedback,Object detector,com.familyfit.google.baduanjin,Pose detection
+35,com.familyfit.google.baduanjin,Health and Fitness,Fine-Grained Feedback,Object detector,com.familyfit.google.baduanjin,Pose detection
+36,com.familyfit.google.baduanjin,Health and Fitness,Fine-Grained Feedback,Object marker,com.familyfit.google.baduanjin,Pose detection
+37,com.fws.plantsnap2,Education,Fine-Grained Feedback,Personalisation,com.fws.plantsnap2,Image classification
+38,com.geico.mobile,Finance,Fine-Grained Feedback,Auditory feedback,com.geico.mobile,Image classification
+39,com.geico.mobile,Finance,Fine-Grained Feedback,Object detector,com.geico.mobile,Image classification
+40,com.glority.picturebird,Education,Fine-Grained Feedback,Audio spectrum visual iser,com.glority.picturebird_AC,Audio classification
+41,com.google.android.apps.cultural,Education,Fine-Grained Feedback,Object detector,com.google.android.apps.cultural obj dy,Image classification
+42,com.google.android.apps.cultural,Education,Fine-Grained Feedback,Object detector,com.google.android.apps.cultural obj dy,Image classification
+43,com.google.android.apps.cultural,Education,Fine-Grained Feedback,Personalisation,com.google.android.apps.cultural style sta,Style transfer
+44,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Object detector,com.google.android.apps.photos.scanner,Image segmentation
+45,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Object detector,com.google.android.apps.photos.scanner,Image segmentation
+46,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Object marker,com.google.android.apps.photos.scanner,Image segmentation
+47,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Text suggestion,com.google.android.apps.photos.scanner,Image segmentation
+48,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Object detector,com.google.android.apps.photos.scanner,Object detection and tracking
+49,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Object detector,com.google.android.apps.photos.scanner,Object detection and tracking
+50,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Object marker,com.google.android.apps.photos.scanner,Object detection and tracking
+51,com.google.android.apps.photos.scanner,Photography,Fine-Grained Feedback,Text suggestion,com.google.android.apps.photos.scanner,Object detection and tracking
+52,com.google.android.apps.village.boond,Productivity,Fine-Grained Feedback,Object detector,com.google.android.apps.village.boond_od,Object detection and tracking
+53,com.google.android.apps.village.boond,Productivity,Fine-Grained Feedback,Object detector,com.google.android.apps.village.boond_od,Object detection and tracking
+54,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Text suggestion,com.google.android.googlequicksearchbox,Speech recongnition
+55,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Auditory feedback,com.google.android.googlequicksearchbox,Speech recongnition
+56,com.google.audio.hearing.visualization.accessibility.scribe,Communication,Fine-Grained Feedback,Text suggestion,com.google.audio.hearing.visualization.accessibility.scribe,Audio classification
+57,com.grammarly.android.keyboard,Productivity,Fine-Grained Feedback,Text suggestion,com.grammarly.android.keyboard,Text prediction
+58,com.hawsoft.mobile.ocrtrans,Productivity,Fine-Grained Feedback,Personalisation,com.hawsoft.mobile.ocrtrans,Image segmentation
+59,com.hawsoft.mobile.ocrtrans,Productivity,Fine-Grained Feedback,Personalisation,com.hawsoft.mobile.ocrtrans_import,Image segmentation
+60,com.hp.printercontrol,Productivity,Fine-Grained Feedback,Object detector,com.hp.printercontrol_multiPage,Image segmentation
+61,com.hp.printercontrol,Productivity,Fine-Grained Feedback,Personalisation,com.hp.printercontrol_multiPage,Image segmentation
+62,com.hp.printercontrol,Productivity,Fine-Grained Feedback,Object detector,com.hp.printercontrol_singlePage,Image segmentation
+63,com.hp.printercontrol,Productivity,Fine-Grained Feedback,Personalisation,com.hp.printercontrol_singlePage,Image segmentation
+64,com.joytunes.simplypiano,Education,Fine-Grained Feedback,Auditory feedback,com.joytunes.simplypiano,Audio classification
+65,com.joytunes.simplypiano,Education,Fine-Grained Feedback,Text suggestion,com.joytunes.simplypiano,Audio classification
+66,com.kwai.video,Entertainment,Fine-Grained Feedback,Personalisation,com.kwai.video sty dy,Face detection
+67,com.kwai.video,Entertainment,Fine-Grained Feedback,Object detector,com.kwai.video sty dy,Selfie segmentation
+68,com.kwai.video,Entertainment,Fine-Grained Feedback,Personalisation,com.kwai.video sty dy,Selfie segmentation
+69,com.lyrebirdstudio.facelab,Photography,Fine-Grained Feedback,Personalisation,com.lyrebirdstudio.facelab,Face detection
+70,com.magicvcam.super.selfiecam.camera,Photography,Fine-Grained Feedback,Object detector,com.magicvcam.super.selfiecam.camera,Face detection
+71,com.meitu.beautyplusme,Photography,Fine-Grained Feedback,Object detector,com.meitu.beautyplusme,Face detection
+72,com.meitu.beautyplusme,Photography,Fine-Grained Feedback,Object detector,com.meitu.beautyplusme,Face detection
+73,com.meitu.beautyplusme,Photography,Fine-Grained Feedback,Personalisation,com.meitu.beautyplusme,Face detection
+74,com.modiface.loreal.stylemyhair,Lifestyle,Fine-Grained Feedback,Personalisation,com.modiface.loreal.stylemyhair,Face detection
+75,com.nhn.android.search,Tools,Fine-Grained Feedback,Audio spectrum visual iser,com.nhn.android.search,Audio classification
+76,com.nhn.android.search,Tools,Fine-Grained Feedback,Auditory feedback,com.nhn.android.search,Audio classification
+77,com.nhn.android.search,Tools,Fine-Grained Feedback,Text suggestion,com.nhn.android.search,Audio classification
+78,com.nhn.android.search,Tools,Fine-Grained Feedback,Object detector,com.nhn.android.search,Image classification
+79,com.nhn.android.search,Tools,Fine-Grained Feedback,Personalisation,com.nhn.android.search,Image classification
+80,com.nhn.android.search,Tools,Fine-Grained Feedback,Auditory feedback,com.nhn.android.search,Speech recongnition
+81,com.nhn.android.search,Tools,Fine-Grained Feedback,Text suggestion,com.nhn.android.search,Speech recongnition
+82,com.selfie.phone11.camera.ios13.icamera,Photography,Fine-Grained Feedback,Object detector,com.selfie.phone11.camera.ios13.icamera,Face detection
+83,com.superlive.liveapp,Social,Fine-Grained Feedback,Personalisation,com.superlive.liveapp,Face detection
+84,com.trove,Health and Fitness,Fine-Grained Feedback,Object detector,com.trove,Face detection
+85,com.uccb.mobile,Finance,Fine-Grained Feedback,Object detector,com.uccb.mobile,Face detection
+86,com.uccb.mobile,Finance,Fine-Grained Feedback,Object marker,com.uccb.mobile,Face detection
+87,com.uccb.mobile,Finance,Fine-Grained Feedback,Object detector,com.uccb.mobile,Entity extraction
+88,com.uccb.mobile,Finance,Fine-Grained Feedback,Object marker,com.uccb.mobile,Entity extraction
+89,com.vnpay.bidv,Finance,Fine-Grained Feedback,Object detector,com.vnpay.bidv,Face detection
+90,com.vnpay.bidv,Finance,Fine-Grained Feedback,Object marker,com.vnpay.bidv,Face detection
+91,com.vnpay.bidv,Finance,Fine-Grained Feedback,Text suggestion,com.vnpay.bidv,Face detection
+92,com.vyroai.AiBlurEditor,Photography,Fine-Grained Feedback,Personalisation,com.vyroai.AiBlurEditor,Selfie segmentation
+93,com.yitong.hrb.people.android,Finance,Fine-Grained Feedback,Object marker,com.yitong.hrb.people.android,Face detection
+94,com.yitong.hrb.people.android,Finance,Fine-Grained Feedback,Object marker,com.yitong.hrb.people.android,Entity extraction
+95,com.zoodel.kz,Shopping,Fine-Grained Feedback,Object detector,com.zoodel.kz,Face detection
+96,cutcut.cut.out.paste.background.remove.photo.cutout,Photography,Fine-Grained Feedback,Personalisation,cutcut.cut.out.paste.background.remove.photo.cutout,Selfie segmentation
+97,com.verisec.mobile.frejaeid,Productivity,Fine-Grained Feedback,Object detector,Freja eID,Face detection
+98,com.verisec.mobile.frejaeid,Productivity,Fine-Grained Feedback,Object marker,Freja eID,Face detection
+99,camscanner.documentscanner.pdfreader,Productivity,Fine-Grained Feedback,Object detector,camscanner.documentscanner.pdfreader.gif,Image segmentation
+100,camscanner.documentscanner.pdfreader,Productivity,Fine-Grained Feedback,Personalisation,camscanner.documentscanner.pdfreader.gif,Image segmentation
+101,com.clickworker.clickworkerapp,Communication,Fine-Grained Feedback,Object detector,com.clickworker.clickworkerapp.gif,Face detection
+102,com.clickworker.clickworkerapp,Communication,Fine-Grained Feedback,Personalisation,com.clickworker.clickworkerapp.gif,Face detection
+103,com.etoolkit.lovecollage,Photography,Fine-Grained Feedback,Object detector,com.etoolkit.lovecollage.gif,Face detection
+104,com.etoolkit.lovecollage,Photography,Fine-Grained Feedback,Personalisation,com.etoolkit.lovecollage.gif,Face detection
+105,com.everimaging.photoeffectstudio,Photography,Fine-Grained Feedback,Personalisation,com.everimaging.photoeffectstudio.gif,Selfie segmentation
+106,com.face.aging.face.truth,Entertainment,Fine-Grained Feedback,Object detector,com.face.aging.face.truth.gif,Face detection
+107,com.google.android.apps.translate,Tools,Fine-Grained Feedback,Auditory feedback,com.google.android.apps.translate.gif,Text recognition
+108,com.google.android.apps.translate,Tools,Fine-Grained Feedback,Object detector,com.google.android.apps.translate.gif,Text recognition
+109,com.google.android.apps.translate,Tools,Fine-Grained Feedback,Personalisation,com.google.android.apps.translate.gif,Text recognition
+110,com.google.android.apps.translate,Tools,Fine-Grained Feedback,Auditory feedback,com.google.android.apps.translate_sr.gif,Speech recongnition
+111,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Audio spectrum visual iser,com.google.android.googlequicksearchbox_ic.gif,Image classification
+112,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Auditory feedback,com.google.android.googlequicksearchbox_ic.gif,Image classification
+113,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Personalisation,com.google.android.googlequicksearchbox_ic.gif,Image classification
+114,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Object detector,com.google.android.googlequicksearchbox_icSearch.gif,Image classification
+115,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Personalisation,com.google.android.googlequicksearchbox_icSearch.gif,Image classification
+116,com.google.android.googlequicksearchbox,Tools,Fine-Grained Feedback,Text suggestion,com.google.android.googlequicksearchbox_icSearch.gif,Image classification
+117,com.krungsri.uchoose,Finance,Fine-Grained Feedback,Object marker,com.krungsri.uchoose.gif,Entity extraction
+118,com.krungsri.uchoose,Finance,Fine-Grained Feedback,Text suggestion,com.krungsri.uchoose.gif,Entity extraction
+119,com.myyearbook.m,Photography,Fine-Grained Feedback,Object detector,com.myyearbook.m.gif,Face detection
+120,com.superlive.liveapp,Social,Fine-Grained Feedback,Personalisation,com.superlive.liveapp.gif,Face detection
+121,com.superlive.liveapp,Social,Fine-Grained Feedback,Object detector,com.superlive.liveapp.gif,Face detection
+122,com.trulymadly.android.app,Lifestyle,Fine-Grained Feedback,Personalisation,com.trulymadly.android.app.gif,Face detection
+123,com.trulymadly.android.app,Lifestyle,Fine-Grained Feedback,Personalisation,com.trulymadly.android.app_import.gif,Face detection
+124,com.vnpay.bidv,Finance,Fine-Grained Feedback,Object detector,com.vnpay.bidv.gif,Entity extraction
+125,com.vnpay.bidv,Finance,Fine-Grained Feedback,Object detector,com.vnpay.bidv.gif,Entity extraction
+126,com.vnpay.bidv,Finance,Fine-Grained Feedback,Text suggestion,com.vnpay.bidv.gif,Entity extraction
+127,com.yantech.zoomerang,Entertainment,Fine-Grained Feedback,Object detector,com.yantech.zoomerang.gif,Face detection
+128,com.yantech.zoomerang,Entertainment,Fine-Grained Feedback,Personalisation,com.yantech.zoomerang.gif,Face detection
+129,com.yochat.freechat,Social,Fine-Grained Feedback,Object detector,com.yochat.freechat.gif,Face detection
+130,com.yochat.freechat,Social,Fine-Grained Feedback,Personalisation,com.yochat.freechat.gif,Face detection
+131,com.zoodel.kz,Shopping,Fine-Grained Feedback,Object detector,com.zoodel.kz.gif,Face detection
+132,io.voiapp.voi,Business,Fine-Grained Feedback,Object marker,io.voiapp.voi.gif,Entity extraction
+133,jp.co.appfactory.birdun,Entertainment,Fine-Grained Feedback,Object detector,jp.co.appfactory.birdun.gif,Face detection
+134,mingle.android.mingle2,Photography,Fine-Grained Feedback,Personalisation,mingle.android.mingle2.gif,Face detection
+135,tv.mixch.android,Social,Fine-Grained Feedback,Personalisation,tv.mixch.android.gif,Face detection
+136,com.google.android.apps.translate,Tools,Fine-Grained Feedback,Personalisation,com.google.android.apps.translate_txtReg_handwrite.gif,Text recognition
+137,io.anyline.examples.store,Tools,Fine-Grained Feedback,Object detector,io.anyline.examples.store cattle dy,Image classification
+138,cn.fundview.agriculturemarket,Lifestyle,Fine-Grained Feedback,Personalisation,cn.fundview.agriculturemarket,Image segmentation
+139,co.doscan.connect.pdf.gp,Tools,Fine-Grained Feedback,Personalisation,co.doscan.connect.pdf.gp,Image segmentation
+140,com.aaa.ame.ind,Photography,Fine-Grained Feedback,Object detector,com.aaa.ame.ind,Face detection
+141,com.aaa.ame.ind,Photography,Fine-Grained Feedback,Personalisation,com.aaa.ame.ind,Face detection
+142,com.adam.surrounding_sounds_recognition,Productivity,Fine-Grained Feedback,Auditory feedback,com.adam.surrounding_sounds_recognition,Audio classification
+143,com.aresmob.scantranslator,Tools,Fine-Grained Feedback,Personalisation,com.aresmob.scantranslator,Image classification
+144,com.aresmob.scantranslator,Tools,Fine-Grained Feedback,Object detector,com.aresmob.scantranslator,Text recognition
+145,com.aresmob.scantranslator,Tools,Fine-Grained Feedback,Personalisation,com.aresmob.scantranslator,Text recognition
+146,com.bang.bangwithfriends,Dating,Fine-Grained Feedback,Object detector,com.bang.bangwithfriends,Face detection
+147,com.camera.galaxyx,Photography,Fine-Grained Feedback,Personalisation,com.camera.galaxyx,Face detection
+148,com.camera.sketch.camera.pencil,Art and Design,Fine-Grained Feedback,Object detector,com.camera.sketch.camera.pencil,Face detection
+149,com.camera12.iphone12,Photography,Fine-Grained Feedback,Object detector,com.camera12.iphone12,Face detection
+150,com.cameras20.galaxys20camera,Photography,Fine-Grained Feedback,Object detector,com.cameras20.galaxys20camera,Face detection
+151,com.camerax.s20galaxy,Photography,Fine-Grained Feedback,Object detector,com.camerax.s20galaxy,Face detection
+152,com.camerax.s20galaxy,Photography,Fine-Grained Feedback,Object detector,com.camerax.s20galaxy,Face detection
+153,com.camerax.s20galaxy,Photography,Fine-Grained Feedback,Personalisation,com.camerax.s20galaxy,Face detection
+154,com.chinasoft.mall,Shopping,Fine-Grained Feedback,Object detector,com.chinasoft.mall,Face detection
+155,com.chinasoft.mall,Shopping,Fine-Grained Feedback,Object marker,com.chinasoft.mall,Face detection
+156,com.galaxys.camera4k,Photography,Fine-Grained Feedback,Object detector,com.galaxys.camera4k,Face detection
+157,com.ghost.sibyl,Lifestyle,Fine-Grained Feedback,Personalisation,com.ghost.sibyl,Face detection
+158,com.good.doc.scanner,Tools,Fine-Grained Feedback,Personalisation,com.good.doc.scanner,Image segmentation
+159,com.goodcam.filter.aiface,Photography,Fine-Grained Feedback,Object detector,com.goodcam.filter.aiface,Face detection
+160,com.iart.camera.photo,Photography,Fine-Grained Feedback,Personalisation,com.iart.camera.photo,Face detection
+161,com.iphone.camera.ios.icamera,Photography,Fine-Grained Feedback,Object detector,com.iphone.camera.ios.icamera,Face detection
+162,com.junruy.cgfyj,Tools,Fine-Grained Feedback,Personalisation,com.junruy.cgfyj,Image segmentation
+163,com.junruy.cgfyj,Tools,Fine-Grained Feedback,Personalisation,com.junruy.cgfyj,Text recognition
+164,com.kaiqi.snapemoji,Beauty,Fine-Grained Feedback,Object detector,com.kaiqi.snapemoji,Face detection
+165,com.kaiqi.snapemoji,Beauty,Fine-Grained Feedback,Object detector,com.kaiqi.snapemoji,Selfie segmentation
+166,com.mobile.doc.scanner.pdfscanner.documentscanner.tool,Tools,Fine-Grained Feedback,Personalisation,com.mobile.doc.scanner.pdfscanner.documentscanner.tool,Image segmentation
+167,com.nowarder.translatorfotoscan,Tools,Fine-Grained Feedback,Object detector,com.nowarder.translatorfotoscan,Image segmentation
+168,com.nowarder.translatorfotoscan,Tools,Fine-Grained Feedback,Personalisation,com.nowarder.translatorfotoscan,Image segmentation
+169,com.oneplus.camerax,Photography,Fine-Grained Feedback,Object detector,com.oneplus.camerax,Face detection
+170,com.picstudio.photoeditorplus,Photography,Fine-Grained Feedback,Personalisation,com.picstudio.photoeditorplus,Face detection
+171,com.pictureme.photoeditor.picstudio,Photography,Fine-Grained Feedback,Personalisation,com.pictureme.photoeditor.picstudio,Face detection
+172,com.redmi8.mix.camera.for.xiaomi.mi10,Photography,Fine-Grained Feedback,Object detector,com.redmi8.mix.camera.for.xiaomi.mi10,Face detection
+173,com.siwalusoftware.dogscanner,Education,Fine-Grained Feedback,Auditory feedback,com.siwalusoftware.dogscanner,Image classification
+174,com.sixoversix.copyglass,Medical,Fine-Grained Feedback,Auditory feedback,com.sixoversix.copyglass,Image classification
+175,com.sixoversix.copyglass,Medical,Fine-Grained Feedback,Object detector,com.sixoversix.copyglass,Image classification
+176,com.sixoversix.copyglass,Medical,Fine-Grained Feedback,Object detector,com.sixoversix.copyglass,Image classification
+177,com.sixoversix.copyglass,Medical,Fine-Grained Feedback,Auditory feedback,com.sixoversix.copyglass,Face detection
+178,com.sixoversix.copyglass,Medical,Fine-Grained Feedback,Object detector,com.sixoversix.copyglass,Face detection
+179,com.sixoversix.copyglass,Medical,Fine-Grained Feedback,Object detector,com.sixoversix.copyglass,Face detection
+180,com.steam.photoeditor,Photography,Fine-Grained Feedback,Object detector,com.steam.photoeditor,Face detection
+181,com.steam.photoeditor,Photography,Fine-Grained Feedback,Personalisation,com.steam.photoeditor,Face detection
+182,com.ultra.iphone12.camera.ios14.icamera,Social,Fine-Grained Feedback,Object detector,com.ultra.iphone12.camera.ios14.icamera,Face detection
+183,com.ultra.miui12.camera.for.xiaomi,Photography,Fine-Grained Feedback,Object detector,com.ultra.miui12.camera.for.xiaomi,Face detection
+184,com.ultra.miui12.camera.for.xiaomi,Photography,Fine-Grained Feedback,Personalisation,com.ultra.miui12.camera.for.xiaomi,Face detection
+185,com.unicredit,Productivity,Fine-Grained Feedback,Personalisation,com.unicredit,Image segmentation
+186,com.uzero.baimiaog,Productivity,Fine-Grained Feedback,Object detector,com.uzero.baimiaog,Image segmentation
+187,com.uzero.baimiaog,Productivity,Fine-Grained Feedback,Personalisation,com.uzero.baimiaog,Image segmentation
+188,com.video.mini,Dating,Fine-Grained Feedback,Object detector,com.video.mini,Face detection
+189,com.wAshMessenger_8787254,Communication,Fine-Grained Feedback,Personalisation,com.wAshMessenger_8787254,Face detection
+190,com.wrste.jiduscanning,Productivity,Fine-Grained Feedback,Object detector,com.wrste.jiduscanning,Image segmentation
+191,com.wrste.jiduscanning,Productivity,Fine-Grained Feedback,Object detector,com.wrste.jiduscanning,Image segmentation
+192,com.xindihe.cgfyb,Tools,Fine-Grained Feedback,Personalisation,com.xindihe.cgfyb,Text recognition
+193,com.yondor.student,Education,Fine-Grained Feedback,Personalisation,com.yondor.student,Image segmentation
+194,com.yrjf.qju.oqo,Productivity,Fine-Grained Feedback,Personalisation,com.yrjf.qju.oqo,Image segmentation
+195,com.yumika.wastickr,Education,Fine-Grained Feedback,Personalisation,com.yumika.wastickr,Selfie segmentation
+196,com.zivn.cloudbrush3,Education,Fine-Grained Feedback,Personalisation,com.zivn.cloudbrush3,Image segmentation
+197,com.zsd.upi.xwa,Photography,Fine-Grained Feedback,Personalisation,com.zsd.upi.xwa,Face detection
+198,daily.face.horoscope.zodiac,Entertainment,Fine-Grained Feedback,Personalisation,daily.face.horoscope.zodiac,Face detection
+199,editor.free.ephoto.vn.ephoto,Photography,Fine-Grained Feedback,Personalisation,editor.free.ephoto.vn.ephoto,Face detection
+200,faceapp.magikoly.exploreandhavefun,Entertainment,Fine-Grained Feedback,Personalisation,faceapp.magikoly.exploreandhavefun,Face detection
+201,horoscope.secret.zodiac.palmistry.face,Entertainment,Fine-Grained Feedback,Personalisation,horoscope.secret.zodiac.palmistry.face,Face detection
+202,jp.ne.benesse.chui.akapen.camera,Education,Fine-Grained Feedback,Personalisation,jp.ne.benesse.chui.akapen.camera,Image segmentation
+203,ro.ing.mobile.banking.android.activity,Finance,Fine-Grained Feedback,Object detector,ro.ing.mobile.banking.android.activity,Face detection
+204,pl.roslin.atlas,Education,Fine-Grained Feedback,Object detector,pl.roslin.atlas,Image classification
+205,plantvillage.nuru,Education,Fine-Grained Feedback,Object detector,plantV.mp4,Image classification
+206,plantvillage.nuru,Education,Fine-Grained Feedback,Object detector,plantV.mp4,Image classification
+207,plantvillage.nuru,Education,Fine-Grained Feedback,Object marker,plantV.mp4,Image classification
+208,plantvillage.nuru,Education,Fine-Grained Feedback,Text suggestion,plantV.mp4,Image classification
+209,plantvillage.nuru,Education,Fine-Grained Feedback,Object detector,plantV.mp4,Object detection and tracking
+210,plantvillage.nuru,Education,Fine-Grained Feedback,Object detector,plantV.mp4,Object detection and tracking
+211,plantvillage.nuru,Education,Fine-Grained Feedback,Object marker,plantV.mp4,Object detection and tracking
+212,plantvillage.nuru,Education,Fine-Grained Feedback,Text suggestion,plantV.mp4,Object detection and tracking
+213,tw.com.quickscanner.invoice,Productivity,Fine-Grained Feedback,Object detector,tw.com.quickscanner.invoice,Barcode scanning
+214,tw.com.quickscanner.invoice,Productivity,Fine-Grained Feedback,Text suggestion,tw.com.quickscanner.invoice,Barcode scanning
+215,ai.fritz.heartbeat,Libraries and Demo,Minimal Feedback,Imperceptible feedback,ai.fritz.heartbeat sty no_in,Style transfer
+216,asia.coins.mobile,Finance,Minimal Feedback,No feedback,asia.coins.mobile_BC_import,Barcode scanning
+217,asia.coins.mobile,Finance,Minimal Feedback,No feedback,asia.coins.mobile_EE_import,Entity extraction
+218,co.vero.app,Social,Minimal Feedback,Imperceptible feedback,co.vero.app,Text recognition
+219,co.vero.app,Social,Minimal Feedback,Imperceptible feedback,co.vero.app,Image classification
+220,com.aresmob.transmaster,Tools,Minimal Feedback,No feedback,com.aresmob.transmaster PDF,Text recognition
+221,com.badoo.mobile,Dating,Minimal Feedback,No feedback,com.badoo.mobile,Face detection
+222,com.badoo.mobile,Dating,Minimal Feedback,Imperceptible feedback,com.badoo.mobile,Face detection
+223,com.chinasoft.mall,Shopping,Minimal Feedback,No feedback,com.chinasoft.mall no inter,Barcode scanning
+224,com.cut.cutout.photo.background.editor,Photography,Minimal Feedback,No feedback,com.cut.cutout.photo.background.editor,Selfie segmentation
+225,com.cyberlink.youcammakeup,Photography,Minimal Feedback,No feedback,com.cyberlink.youcammakeup_FD,Face detection
+226,com.cyberlink.youcammakeup,Photography,Minimal Feedback,No feedback,com.cyberlink.youcammakeup_img_seg,Selfie segmentation
+227,com.dailyselfie.newlook.studio,Photography,Minimal Feedback,No feedback,com.dailyselfie.newlook.studio,Face detection
+228,com.dailyselfie.newlook.studio,Photography,Minimal Feedback,No feedback,com.dailyselfie.newlook.studio,Selfie segmentation
+229,com.dengtacj.stock,Finance,Minimal Feedback,Imperceptible feedback,com.dengtacj.stock,Speech recongnition
+230,com.eraserphoto.cutout.backgroundeditor,Photography,Minimal Feedback,No feedback,com.eraserphoto.cutout.backgroundeditor face,Face detection
+231,com.eraserphoto.cutout.backgroundeditor,Photography,Minimal Feedback,No feedback,com.eraserphoto.cutout.backgroundeditor face,Selfie segmentation
+232,com.fingershopping,Shopping,Minimal Feedback,No feedback,com.fingershopping no inter,Barcode scanning
+233,com.fishbrain.app,Sports,Minimal Feedback,No feedback,com.fishbrain.app,Image classification
+234,com.fishbrain.app,Sports,Minimal Feedback,Imperceptible feedback,com.fishbrain.app,Image classification
+235,com.google.android.apps.cultural,Education,Minimal Feedback,No feedback,com.google.android.apps.cultural obj no_in,Image classification
+236,com.google.android.apps.cultural,Education,Minimal Feedback,No feedback,com.google.android.apps.cultural style no_in,Style transfer
+237,com.google.android.apps.photosgo,Photography,Minimal Feedback,Imperceptible feedback,com.google.android.apps.photosgo,Image classification
+238,com.google.android.apps.village.boond,Productivity,Minimal Feedback,No feedback,com.google.android.apps.village.boond_ic_lab,Image classification
+239,com.google.android.apps.village.boond,Productivity,Minimal Feedback,No feedback,com.google.android.apps.village.boond_od_import,Object detection and tracking
+240,com.hawsoft.mobile.ocrtrans,Productivity,Minimal Feedback,No feedback,com.hawsoft.mobile.ocrtrans_import,Image segmentation
+241,com.icomedias.hybridforms,Productivity,Minimal Feedback,No feedback,com.icomedias.hybridforms,Text recognition
+242,com.icomedias.hybridforms,Productivity,Minimal Feedback,Imperceptible feedback,com.icomedias.hybridforms,Text recognition
+243,com.icomedias.hybridforms,Productivity,Minimal Feedback,No feedback,com.icomedias.hybridforms,Image classification
+244,com.icomedias.hybridforms,Productivity,Minimal Feedback,Imperceptible feedback,com.icomedias.hybridforms,Image classification
+245,com.lyrebirdstudio.facelab,Photography,Minimal Feedback,No feedback,com.lyrebirdstudio.facelab_import,Face detection
+246,com.nick.android.nickjr,Entertainment,Minimal Feedback,Imperceptible feedback,com.nick.android.nickjr,Face detection
+247,com.trulymadly.android.app,Lifestyle,Minimal Feedback,No feedback,com.trulymadly.android.app_import,Face detection
+248,com.urbandroid.sleep,Lifestyle,Minimal Feedback,Delayed feedback,com.urbandroid.sleep,Audio classification
+249,com.vyroai.AiBlurEditor,Photography,Minimal Feedback,No feedback,com.vyroai.AiBlurEditor no_in,Selfie segmentation
+250,com.wf.funlab,Photography,Minimal Feedback,No feedback,com.wf.funlab_import,Face detection
+251,com.zzkko,Shopping,Minimal Feedback,No feedback,com.zzkko,Image classification
+252,cutcut.cut.out.paste.background.remove.photo.cutout,Photography,Minimal Feedback,No feedback,cutcut.cut.out.paste.background.remove.photo.cutout,Selfie segmentation
+253,camscanner.documentscanner.pdfreader,Productivity,Minimal Feedback,No feedback,camscanner.documentscanner.pdfreader_import.gif,Image segmentation
+254,com.appculus.photo.pdf.pics2pdf,Productivity,Minimal Feedback,No feedback,com.appculus.photo.pdf.pics2pdf.gif,Image segmentation
+255,com.bitcoin.mwallet,Finance,Minimal Feedback,No feedback,com.bitcoin.mwallet_no_in.gif,Barcode scanning
+256,com.everimaging.photoeffectstudio,Photography,Minimal Feedback,No feedback,com.everimaging.photoeffectstudio.gif,Selfie segmentation
+257,com.face.aging.face.truth,Entertainment,Minimal Feedback,No feedback,com.face.aging.face.truth_import.gif,Face detection
+258,com.google.android.apps.translate,Tools,Minimal Feedback,No feedback,com.google.android.apps.translate_imp.gif,Text recognition
+259,com.google.android.googlequicksearchbox,Tools,Minimal Feedback,No feedback,com.google.android.googlequicksearchbox_ic.gif,Image classification
+260,com.myyearbook.m,Photography,Minimal Feedback,No feedback,"com.myyearbook.m_import.gif""",Face detection
+261,com.trove,Health and Fitness,Minimal Feedback,No feedback,com.trove_import.gif,Face detection
+262,com.wemagineai.voila,Photography,Minimal Feedback,No feedback,com.wemagineai.voila.gif,Face detection
+263,com.yochat.freechat,Social,Minimal Feedback,No feedback,com.yochat.freechat.gif,Face detection
+264,jp.co.appfactory.birdun,Entertainment,Minimal Feedback,No feedback,jp.co.appfactory.birdun.gif,Face detection
+265,co.doscan.connect.pdf.gp,Tools,Minimal Feedback,No feedback,co.doscan.connect.pdf.gp,Image segmentation
+266,co.theguru.dali,Education,Minimal Feedback,Imperceptible feedback,co.theguru.dali,Face detection
+267,com.aihehuo.app,Business,Minimal Feedback,Imperceptible feedback,com.aihehuo.app,Face detection
+268,com.baseapp.eyeem,Photography,Minimal Feedback,No feedback,com.baseapp.eyeem,Style transfer
+269,com.bgc.bgc,Personalization,Minimal Feedback,Imperceptible feedback,com.bgc.bgc,Face detection
+270,com.camera.galaxyx,Photography,Minimal Feedback,Imperceptible feedback,com.camera.galaxyx,Face detection
+271,com.camera.sketch.camera.pencil,Art and Design,Minimal Feedback,No feedback,com.camera.sketch.camera.pencil,Face detection
+272,com.disney.datg.videoplatforms.android.watchdc,Entertainment,Minimal Feedback,Imperceptible feedback,com.disney.datg.videoplatforms.android.watchdc,Face detection
+273,com.futureme.palmreader,Entertainment,Minimal Feedback,No feedback,com.futureme.palmreader,Face detection
+274,com.ghost.sibyl,Lifestyle,Minimal Feedback,No feedback,com.ghost.sibyl,Face detection
+275,com.good.doc.scanner,Tools,Minimal Feedback,No feedback,com.good.doc.scanner,Image segmentation
+276,com.iart.camera.photo,Photography,Minimal Feedback,Imperceptible feedback,com.iart.camera.photo,Face detection
+277,com.junruy.cgfyj,Tools,Minimal Feedback,No feedback,com.junruy.cgfyj,Text recognition
+278,com.kaiqi.snapemoji,Beauty,Minimal Feedback,No feedback,com.kaiqi.snapemoji,Face detection
+279,com.kaiqi.snapemoji,Beauty,Minimal Feedback,No feedback,com.kaiqi.snapemoji,Selfie segmentation
+280,com.kaiqi.videoae,Photography,Minimal Feedback,No feedback,com.kaiqi.videoae,Style transfer
+281,com.kaiqi.videoae,Photography,Minimal Feedback,No feedback,com.kaiqi.videoae,Selfie segmentation
+282,com.live.veegopro.chat,Dating,Minimal Feedback,Imperceptible feedback,com.live.veegopro.chat,Face detection
+283,com.live.videochat.india,Dating,Minimal Feedback,Imperceptible feedback,com.live.videochat.india,Face detection
+284,com.mecoo.chat,Social,Minimal Feedback,Imperceptible feedback,com.mecoo.chat,Face detection
+285,com.mobile.doc.scanner.pdfscanner.documentscanner.tool,Tools,Minimal Feedback,No feedback,com.mobile.doc.scanner.pdfscanner.documentscanner.tool,Image segmentation
+286,com.nowarder.translatorfotoscan,Tools,Minimal Feedback,No feedback,com.nowarder.translatorfotoscan,Image segmentation
+287,com.p1.mobile.putong,Social,Minimal Feedback,Imperceptible feedback,com.p1.mobile.putong,Face detection
+288,com.palmistry.horoscope.zodiacsign,Entertainment,Minimal Feedback,No feedback,com.palmistry.horoscope.zodiacsign,Face detection
+289,com.picstudio.photoeditorplus,Photography,Minimal Feedback,No feedback,com.picstudio.photoeditorplus,Face detection
+290,com.pictureme.photoeditor.picstudio,Photography,Minimal Feedback,No feedback,com.pictureme.photoeditor.picstudio,Face detection
+291,com.qrcode.scanner.barcode.reader.creator.free,Tools,Minimal Feedback,No feedback,com.qrcode.scanner.barcode.reader.creator.free,Image segmentation
+292,com.siwalusoftware.dogscanner,Education,Minimal Feedback,No feedback,com.siwalusoftware.dogscanner,Image classification
+293,com.snapgify,Photography,Minimal Feedback,No feedback,com.snapgify,Selfie segmentation
+294,com.snapgify,Photography,Minimal Feedback,No feedback,com.snapgify,Style transfer
+295,com.steam.photoeditor,Photography,Minimal Feedback,No feedback,com.steam.photoeditor,Face detection
+296,com.tq.master,Entertainment,Minimal Feedback,No feedback,com.tq.master,Face detection
+297,com.trackyourcarbon.carbon,Lifestyle,Minimal Feedback,Imperceptible feedback,com.trackyourcarbon.carbon,Face detection
+298,com.tyndale.filament,Lifestyle,Minimal Feedback,No feedback,com.tyndale.filament,Text recognition
+299,com.unicredit,Productivity,Minimal Feedback,No feedback,com.unicredit,Image segmentation
+300,com.uzero.baimiaog,Productivity,Minimal Feedback,No feedback,com.uzero.baimiaog,Image segmentation
+301,com.wrste.jiduscanning,Productivity,Minimal Feedback,No feedback,com.wrste.jiduscanning,Image segmentation
+302,com.xindihe.cgfyb,Tools,Minimal Feedback,No feedback,com.xindihe.cgfyb,Text recognition
+303,com.yondor.student,Education,Minimal Feedback,No feedback,com.yondor.student,Image segmentation
+304,com.yrjf.qju.oqo,Productivity,Minimal Feedback,No feedback,com.yrjf.qju.oqo,Image segmentation
+305,com.yumika.wastickr,Education,Minimal Feedback,No feedback,com.yumika.wastickr,Selfie segmentation
+306,com.zivn.cloudbrush3,Education,Minimal Feedback,No feedback,com.zivn.cloudbrush3,Image segmentation
+307,com.zsd.upi.xwa,Photography,Minimal Feedback,No feedback,com.zsd.upi.xwa,Face detection
+308,daily.face.horoscope.zodiac,Entertainment,Minimal Feedback,No feedback,daily.face.horoscope.zodiac,Face detection
+309,editor.free.ephoto.vn.ephoto,Photography,Minimal Feedback,No feedback,editor.free.ephoto.vn.ephoto,Face detection
+310,faceapp.magikoly.exploreandhavefun,Entertainment,Minimal Feedback,No feedback,faceapp.magikoly.exploreandhavefun,Face detection
+311,horoscope.secret.zodiac.palmistry.face,Entertainment,Minimal Feedback,No feedback,horoscope.secret.zodiac.palmistry.face,Face detection
+312,horoscope.zodiac.love.master,Entertainment,Minimal Feedback,No feedback,horoscope.zodiac.love.master,Face detection
+313,jp.ne.benesse.chui.akapen.camera,Education,Minimal Feedback,No feedback,jp.ne.benesse.chui.akapen.camera,Image segmentation
+314,ro.ing.mobile.banking.android.activity,Finance,Minimal Feedback,Imperceptible feedback,ro.ing.mobile.banking.android.activity,Face detection
+315,tv.mola.app,Entertainment,Minimal Feedback,No feedback,tv.mola.app,Face detection
+316,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Textual instruction,ai.fritz.heartbeat,Image classification
+317,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Textual instruction,ai.fritz.heartbeat,Face detection
+318,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Pop-up messages,ai.fritz.heartbeat,Face detection
+319,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Haptic feedback,ai.fritz.heartbeat,Face detection
+320,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Textual instruction,ai.fritz.heartbeat,Object detection and tracking
+321,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Pop-up messages,ai.fritz.heartbeat,Object detection and tracking
+322,ai.fritz.heartbeat,Libraries and Demo,General Feedback,Textual instruction,ai.fritz.heartbeat,Pose detection
+323,io.anyline.examples.store,Tools,General Feedback,Camera frame,anyline qr code,Barcode scanning
+324,io.anyline.examples.store,Tools,General Feedback,Flashlight,anyline qr code,Barcode scanning
+325,io.anyline.examples.store,Tools,General Feedback,Haptic feedback,anyline qr code,Barcode scanning
+326,app.plant.identification,Education,General Feedback,Camera frame,app.plant.identification,Image classification
+327,app.plant.identification,Education,General Feedback,Graphical instruction,app.plant.identification,Image classification
+328,app.plant.identification,Education,General Feedback,Textual instruction,app.plant.identification,Image classification
+329,app.plant.identification,Education,General Feedback,Pop-up messages,app.plant.identification,Image classification
+330,asia.coins.mobile,Finance,General Feedback,Camera frame,asia.coins.mobile_BC,Barcode scanning
+331,asia.coins.mobile,Finance,General Feedback,Textual instruction,asia.coins.mobile_BC,Barcode scanning
+332,asia.coins.mobile,Finance,General Feedback,Pop-up messages,asia.coins.mobile_BC,Barcode scanning
+333,asia.coins.mobile,Finance,General Feedback,Camera frame,asia.coins.mobile_EE,Entity extraction
+334,asia.coins.mobile,Finance,General Feedback,Graphical instruction,asia.coins.mobile_EE,Entity extraction
+335,asia.coins.mobile,Finance,General Feedback,Textual instruction,asia.coins.mobile_EE,Entity extraction
+336,asia.coins.mobile,Finance,General Feedback,Pop-up messages,asia.coins.mobile_EE,Entity extraction
+337,asia.coins.mobile,Finance,General Feedback,Camera frame,asia.coins.mobile_FD,Face detection
+338,asia.coins.mobile,Finance,General Feedback,Graphical instruction,asia.coins.mobile_FD,Face detection
+339,asia.coins.mobile,Finance,General Feedback,Textual instruction,asia.coins.mobile_FD,Face detection
+340,asia.coins.mobile,Finance,General Feedback,Pop-up messages,asia.coins.mobile_FD,Face detection
+341,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Camera frame,cn.com.hrcrb.mobilebank.per,Text recognition
+342,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Textual instruction,cn.com.hrcrb.mobilebank.per,Text recognition
+343,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Haptic feedback,cn.com.hrcrb.mobilebank.per,Text recognition
+344,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Camera frame,cn.com.hrcrb.mobilebank.per,Entity extraction
+345,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Textual instruction,cn.com.hrcrb.mobilebank.per,Entity extraction
+346,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Pop-up messages,cn.com.hrcrb.mobilebank.per,Entity extraction
+347,cn.com.hrcrb.mobilebank.per,Finance,General Feedback,Haptic feedback,cn.com.hrcrb.mobilebank.per,Entity extraction
+348,com.appculus.photo.pdf.pics2pdf,Productivity,General Feedback,Pop-up messages,com.appculus.photo.pdf.pics2pdf,Image segmentation
+349,com.aresmob.transmaster,Tools,General Feedback,Pop-up messages,com.aresmob.transmaster,Text recognition
+350,com.aresmob.transmaster,Tools,General Feedback,Camera frame,com.aresmob.transmaster OD,Image classification
+351,com.aresmob.transmaster,Tools,General Feedback,Pop-up messages,com.aresmob.transmaster OD,Image classification
+352,com.aresmob.transmaster,Tools,General Feedback,Graphical instruction,com.aresmob.transmaster PDF,Text recognition
+353,com.aresmob.transmaster,Tools,General Feedback,Textual instruction,com.aresmob.transmaster PDF,Text recognition
+354,com.aresmob.transmaster,Tools,General Feedback,Camera frame,com.aresmob.transmaster TR,Text recognition
+355,com.aresmob.transmaster,Tools,General Feedback,Pop-up messages,com.aresmob.transmaster TR,Text recognition
+356,com.baidu.BaiduMap,Tools,General Feedback,Camera frame,com.baidu.BaiduMap qr,Barcode scanning
+357,com.baidu.BaiduMap,Tools,General Feedback,Flashlight,com.baidu.BaiduMap qr,Barcode scanning
+358,com.baidu.BaiduMap,Tools,General Feedback,Textual instruction,com.baidu.BaiduMap qr,Barcode scanning
+359,com.baidu.BaiduMap,Tools,General Feedback,Pop-up messages,com.baidu.BaiduMap qr,Barcode scanning
+360,com.baidu.BaiduMap,Tools,General Feedback,Haptic feedback,com.baidu.BaiduMap qr,Barcode scanning
+361,com.baidu.BaiduMap,Tools,General Feedback,Textual instruction,com.baidu.BaiduMap tran dy,Text recognition
+362,com.baidu.BaiduMap,Tools,General Feedback,Pop-up messages,com.baidu.BaiduMap tran dy,Text recognition
+363,com.chinasoft.mall,Shopping,General Feedback,Camera frame,com.chinasoft.mall QRCODE,Barcode scanning
+364,com.chinasoft.mall,Shopping,General Feedback,Textual instruction,com.chinasoft.mall QRCODE,Barcode scanning
+365,com.chinasoft.mall,Shopping,General Feedback,Pop-up messages,com.chinasoft.mall QRCODE,Barcode scanning
+366,com.chinasoft.mall,Shopping,General Feedback,Haptic feedback,com.chinasoft.mall QRCODE,Barcode scanning
+367,com.chinasoft.mall,Shopping,General Feedback,Textual instruction,com.chinasoft.mall SR,Speech recongnition
+368,com.chinasoft.mall,Shopping,General Feedback,Pop-up messages,com.chinasoft.mall SR,Speech recongnition
+369,com.chinasoft.mall,Shopping,General Feedback,Haptic feedback,com.chinasoft.mall SR,Speech recongnition
+370,com.clickworker.clickworkerapp,Communication,General Feedback,Textual instruction,com.clickworker.clickworkerapp,Face detection
+371,com.clickworker.clickworkerapp,Communication,General Feedback,Pop-up messages,com.clickworker.clickworkerapp_import,Face detection
+372,com.conceptivapps.blossom,Education,General Feedback,Auditory feedback (Static),com.conceptivapps.blossom,Image classification
+373,com.conceptivapps.blossom,Education,General Feedback,Camera frame,com.conceptivapps.blossom,Image classification
+374,com.conceptivapps.blossom,Education,General Feedback,Graphical instruction,com.conceptivapps.blossom,Image classification
+375,com.conceptivapps.blossom,Education,General Feedback,Textual instruction,com.conceptivapps.blossom,Image classification
+376,com.conceptivapps.blossom,Education,General Feedback,Pop-up messages,com.conceptivapps.blossom,Image classification
+377,com.cut.cutout.photo.background.editor,Photography,General Feedback,Textual instruction,com.cut.cutout.photo.background.editor,Selfie segmentation
+378,com.cyberlink.youcammakeup,Photography,General Feedback,Camera frame,com.cyberlink.youcammakeup,Face detection
+379,com.cyberlink.youcammakeup,Photography,General Feedback,Graphical instruction,com.cyberlink.youcammakeup,Face detection
+380,com.cyberlink.youcammakeup,Photography,General Feedback,Textual instruction,com.cyberlink.youcammakeup,Face detection
+381,com.cyberlink.youcammakeup,Photography,General Feedback,Pop-up messages,com.cyberlink.youcammakeup,Face detection
+382,com.cyberlink.youcammakeup,Photography,General Feedback,Pop-up messages,com.cyberlink.youcammakeup_FD,Face detection
+383,com.cyberlink.youcammakeup,Photography,General Feedback,Graphical instruction,com.cyberlink.youcammakeup_img_seg,Selfie segmentation
+384,com.cyberlink.youcammakeup,Photography,General Feedback,Textual instruction,com.cyberlink.youcammakeup_img_seg,Selfie segmentation
+385,com.cyberlink.youcammakeup,Photography,General Feedback,Pop-up messages,com.cyberlink.youcammakeup_img_seg,Selfie segmentation
+386,com.dengtacj.stock,Finance,General Feedback,Haptic feedback,com.dengtacj.stock,Speech recongnition
+387,com.draw.clash.drawit,Entertainment,General Feedback,Graphical instruction,com.draw.clash.drawit,Image classification
+388,com.draw.clash.drawit,Entertainment,General Feedback,Textual instruction,com.draw.clash.drawit,Image classification
+389,com.draw.clash.drawit,Entertainment,General Feedback,Pop-up messages,com.draw.clash.drawit,Image classification
+390,com.dstteam.minecraftvn123.theplantae,Education,General Feedback,Auditory feedback (Static),com.dstteam.minecraftvn123.theplantae,Image classification
+391,com.dstteam.minecraftvn123.theplantae,Education,General Feedback,Camera frame,com.dstteam.minecraftvn123.theplantae,Image classification
+392,com.dstteam.minecraftvn123.theplantae,Education,General Feedback,Graphical instruction,com.dstteam.minecraftvn123.theplantae,Image classification
+393,com.dstteam.minecraftvn123.theplantae,Education,General Feedback,Textual instruction,com.dstteam.minecraftvn123.theplantae,Image classification
+394,com.dstteam.minecraftvn123.theplantae,Education,General Feedback,Pop-up messages,com.dstteam.minecraftvn123.theplantae,Image classification
+395,com.easilydo.mail,Productivity,General Feedback,Pop-up messages,com.easilydo.mail,Text prediction
+396,com.ebay.mobile,Shopping,General Feedback,Auditory feedback (Static),com.ebay.mobile,Barcode scanning
+397,com.ebay.mobile,Shopping,General Feedback,Camera frame,com.ebay.mobile,Barcode scanning
+398,com.ebay.mobile,Shopping,General Feedback,Textual instruction,com.ebay.mobile,Barcode scanning
+399,com.ebay.mobile,Shopping,General Feedback,Pop-up messages,com.ebay.mobile,Barcode scanning
+400,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Camera frame,com.eraserphoto.cutout.backgroundeditor face,Face detection
+401,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Graphical instruction,com.eraserphoto.cutout.backgroundeditor face,Face detection
+402,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Textual instruction,com.eraserphoto.cutout.backgroundeditor face,Face detection
+403,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Pop-up messages,com.eraserphoto.cutout.backgroundeditor face,Face detection
+404,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Graphical instruction,com.eraserphoto.cutout.backgroundeditor face,Selfie segmentation
+405,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Textual instruction,com.eraserphoto.cutout.backgroundeditor face,Selfie segmentation
+406,com.eraserphoto.cutout.backgroundeditor,Photography,General Feedback,Pop-up messages,com.eraserphoto.cutout.backgroundeditor face,Selfie segmentation
+407,com.familyfit.google.baduanjin,Health and Fitness,General Feedback,Auditory feedback (Static),com.familyfit.google.baduanjin,Pose detection
+408,com.familyfit.google.baduanjin,Health and Fitness,General Feedback,Graphical instruction,com.familyfit.google.baduanjin,Pose detection
+409,com.familyfit.google.baduanjin,Health and Fitness,General Feedback,Textual instruction,com.familyfit.google.baduanjin,Pose detection
+410,com.familyfit.google.baduanjin,Health and Fitness,General Feedback,Pop-up messages,com.familyfit.google.baduanjin,Pose detection
+411,com.familyfit.google.baduanjin,Health and Fitness,General Feedback,Haptic feedback,com.familyfit.google.baduanjin,Pose detection
+412,com.fingershopping,Shopping,General Feedback,Camera frame,com.fingershopping static,Barcode scanning
+413,com.fingershopping,Shopping,General Feedback,Pop-up messages,com.fingershopping static,Barcode scanning
+414,com.fingershopping,Shopping,General Feedback,Haptic feedback,com.fingershopping static,Barcode scanning
+415,com.fws.plantsnap2,Education,General Feedback,Auditory feedback (Static),com.fws.plantsnap2,Image classification
+416,com.fws.plantsnap2,Education,General Feedback,Graphical instruction,com.fws.plantsnap2,Image classification
+417,com.fws.plantsnap2,Education,General Feedback,Textual instruction,com.fws.plantsnap2,Image classification
+418,com.fws.plantsnap2,Education,General Feedback,Pop-up messages,com.fws.plantsnap2,Image classification
+419,com.geico.mobile,Finance,General Feedback,Pop-up messages,com.geico.mobile,Image classification
+420,com.glority.picturebird,Education,General Feedback,Textual instruction,com.glority.picturebird_AC,Audio classification
+421,com.glority.picturebird,Education,General Feedback,Pop-up messages,com.glority.picturebird_AC,Audio classification
+422,com.glority.picturebird,Education,General Feedback,Camera frame,com.glority.picturebird_IC,Image classification
+423,com.glority.picturebird,Education,General Feedback,Graphical instruction,com.glority.picturebird_IC,Image classification
+424,com.glority.picturebird,Education,General Feedback,Textual instruction,com.glority.picturebird_IC,Image classification
+425,com.glority.picturebird,Education,General Feedback,Pop-up messages,com.glority.picturebird_IC,Image classification
+426,com.glority.pictureinsect,Education,General Feedback,Camera frame,com.glority.pictureinsect,Image classification
+427,com.glority.pictureinsect,Education,General Feedback,Graphical instruction,com.glority.pictureinsect,Image classification
+428,com.glority.pictureinsect,Education,General Feedback,Textual instruction,com.glority.pictureinsect,Image classification
+429,com.glority.pictureinsect,Education,General Feedback,Pop-up messages,com.glority.pictureinsect,Image classification
+430,com.glority.picturemushroom,Education,General Feedback,Camera frame,com.glority.picturemushroom,Image classification
+431,com.glority.picturemushroom,Education,General Feedback,Graphical instruction,com.glority.picturemushroom,Image classification
+432,com.glority.picturemushroom,Education,General Feedback,Textual instruction,com.glority.picturemushroom,Image classification
+433,com.glority.picturemushroom,Education,General Feedback,Pop-up messages,com.glority.picturemushroom,Image classification
+434,com.google.android.apps.cultural,Education,General Feedback,Textual instruction,com.google.android.apps.cultural obj dy,Image classification
+435,com.google.android.apps.cultural,Education,General Feedback,Camera frame,com.google.android.apps.cultural port sta,Face detection
+436,com.google.android.apps.cultural,Education,General Feedback,Graphical instruction,com.google.android.apps.cultural port sta,Face detection
+437,com.google.android.apps.cultural,Education,General Feedback,Textual instruction,com.google.android.apps.cultural port sta,Face detection
+438,com.google.android.apps.cultural,Education,General Feedback,Pop-up messages,com.google.android.apps.cultural port sta,Face detection
+439,com.google.android.apps.cultural,Education,General Feedback,Textual instruction,com.google.android.apps.cultural style sta,Style transfer
+440,com.google.android.apps.cultural,Education,General Feedback,Pop-up messages,com.google.android.apps.cultural style sta,Style transfer
+441,com.google.android.apps.photos.scanner,Photography,General Feedback,Graphical instruction,com.google.android.apps.photos.scanner,Image segmentation
+442,com.google.android.apps.photos.scanner,Photography,General Feedback,Textual instruction,com.google.android.apps.photos.scanner,Image segmentation
+443,com.google.android.apps.photos.scanner,Photography,General Feedback,Graphical instruction,com.google.android.apps.photos.scanner,Object detection and tracking
+444,com.google.android.apps.photos.scanner,Photography,General Feedback,Textual instruction,com.google.android.apps.photos.scanner,Object detection and tracking
+445,com.google.android.apps.village.boond,Productivity,General Feedback,Pop-up messages,com.google.android.apps.village.boond_ic,Image classification
+446,com.google.android.apps.village.boond,Productivity,General Feedback,Graphical instruction,com.google.android.apps.village.boond_ic_lab,Image classification
+447,com.google.android.apps.village.boond,Productivity,General Feedback,Textual instruction,com.google.android.apps.village.boond_ic_lab,Image classification
+448,com.google.android.apps.village.boond,Productivity,General Feedback,Pop-up messages,com.google.android.apps.village.boond_ic_lab,Image classification
+449,com.google.android.apps.village.boond,Productivity,General Feedback,Graphical instruction,com.google.android.apps.village.boond_od,Object detection and tracking
+450,com.google.android.apps.village.boond,Productivity,General Feedback,Pop-up messages,com.google.android.apps.village.boond_od,Object detection and tracking
+451,com.google.android.apps.village.boond,Productivity,General Feedback,Textual instruction,com.google.android.apps.village.boond_od_import,Object detection and tracking
+452,com.google.android.googlequicksearchbox,Tools,General Feedback,Graphical instruction,com.google.android.googlequicksearchbox,Speech recongnition
+453,com.google.audio.hearing.visualization.accessibility.scribe,Communication,General Feedback,Auditory feedback (Static),com.google.audio.hearing.visualization.accessibility.scribe,Audio classification
+454,com.google.audio.hearing.visualization.accessibility.scribe,Communication,General Feedback,Graphical instruction,com.google.audio.hearing.visualization.accessibility.scribe,Audio classification
+455,com.google.audio.hearing.visualization.accessibility.scribe,Communication,General Feedback,Textual instruction,com.google.audio.hearing.visualization.accessibility.scribe,Audio classification
+456,com.hawsoft.mobile.ocrtrans,Productivity,General Feedback,Textual instruction,com.hawsoft.mobile.ocrtrans,Image segmentation
+457,com.hawsoft.mobile.ocrtrans,Productivity,General Feedback,Pop-up messages,com.hawsoft.mobile.ocrtrans,Image segmentation
+458,com.homesecurity.firstone,Libraries and Demo,General Feedback,Pop-up messages,com.homesecurity.firstone,Image classification
+459,com.hp.printercontrol,Productivity,General Feedback,Textual instruction,com.hp.printercontrol_multiPage,Image segmentation
+460,com.hp.printercontrol,Productivity,General Feedback,Pop-up messages,com.hp.printercontrol_multiPage,Image segmentation
+461,com.hp.printercontrol,Productivity,General Feedback,Textual instruction,com.hp.printercontrol_singlePage,Image segmentation
+462,com.hp.printercontrol,Productivity,General Feedback,Pop-up messages,com.hp.printercontrol_singlePage,Image segmentation
+463,com.huya.nimo,Entertainment,General Feedback,Camera frame,com.huya.nimo,Barcode scanning
+464,com.huya.nimo,Entertainment,General Feedback,Graphical instruction,com.huya.nimo,Barcode scanning
+465,com.huya.nimo,Entertainment,General Feedback,Textual instruction,com.huya.nimo,Barcode scanning
+466,com.huya.nimo,Entertainment,General Feedback,Pop-up messages,com.huya.nimo,Barcode scanning
+467,com.iart.camera.photo,Photography,General Feedback,Camera frame,com.iart.camera.photo,Face detection
+468,com.iart.camera.photo,Photography,General Feedback,Pop-up messages,com.iart.camera.photo,Face detection
+469,com.iart.camera.photo,Photography,General Feedback,Haptic feedback,com.iart.camera.photo,Face detection
+470,com.joytunes.simplypiano,Education,General Feedback,Auditory feedback (Static),com.joytunes.simplypiano,Audio classification
+471,com.joytunes.simplypiano,Education,General Feedback,Graphical instruction,com.joytunes.simplypiano,Audio classification
+472,com.joytunes.simplypiano,Education,General Feedback,Textual instruction,com.joytunes.simplypiano,Audio classification
+473,com.joytunes.simplypiano,Education,General Feedback,Pop-up messages,com.joytunes.simplypiano,Audio classification
+474,com.lyrebirdstudio.facelab,Photography,General Feedback,Camera frame,com.lyrebirdstudio.facelab,Face detection
+475,com.lyrebirdstudio.facelab,Photography,General Feedback,Graphical instruction,com.lyrebirdstudio.facelab,Face detection
+476,com.lyrebirdstudio.facelab,Photography,General Feedback,Textual instruction,com.lyrebirdstudio.facelab,Face detection
+477,com.lyrebirdstudio.facelab,Photography,General Feedback,Pop-up messages,com.lyrebirdstudio.facelab,Face detection
+478,com.meitu.beautyplusme,Photography,General Feedback,Graphical instruction,com.meitu.beautyplusme,Face detection
+479,com.meitu.beautyplusme,Photography,General Feedback,Textual instruction,com.meitu.beautyplusme,Face detection
+480,com.meitu.beautyplusme,Photography,General Feedback,Pop-up messages,com.meitu.beautyplusme,Face detection
+481,com.modiface.loreal.stylemyhair,Lifestyle,General Feedback,Camera frame,com.modiface.loreal.stylemyhair,Face detection
+482,com.modiface.loreal.stylemyhair,Lifestyle,General Feedback,Graphical instruction,com.modiface.loreal.stylemyhair,Face detection
+483,com.modiface.loreal.stylemyhair,Lifestyle,General Feedback,Textual instruction,com.modiface.loreal.stylemyhair,Face detection
+484,com.modiface.loreal.stylemyhair,Lifestyle,General Feedback,Pop-up messages,com.modiface.loreal.stylemyhair,Face detection
+485,com.nhn.android.search,Tools,General Feedback,Auditory feedback (Static),com.nhn.android.search,Text recognition
+486,com.nhn.android.search,Tools,General Feedback,Graphical instruction,com.nhn.android.search,Text recognition
+487,com.nhn.android.search,Tools,General Feedback,Textual instruction,com.nhn.android.search,Text recognition
+488,com.nhn.android.search,Tools,General Feedback,Pop-up messages,com.nhn.android.search,Text recognition
+489,com.nhn.android.search,Tools,General Feedback,Camera frame,com.nhn.android.search,Image classification
+490,com.nhn.android.search,Tools,General Feedback,Textual instruction,com.nhn.android.search,Image classification
+491,com.nhn.android.search,Tools,General Feedback,Pop-up messages,com.nhn.android.search,Image classification
+492,com.nhn.android.search,Tools,General Feedback,Pop-up messages,com.nhn.android.search,Speech recongnition
+493,com.nhn.android.search,Tools,General Feedback,Textual instruction,com.nhn.android.search,Speech recongnition
+494,com.nhn.android.search,Tools,General Feedback,Graphical instruction,com.nhn.android.search,Speech recongnition
+495,com.nhn.android.search,Tools,General Feedback,Auditory feedback (Static),com.nhn.android.search,Speech recongnition
+496,com.redbaby,Shopping,General Feedback,Camera frame,com.redbaby,Barcode scanning
+497,com.redbaby,Shopping,General Feedback,Flashlight,com.redbaby,Barcode scanning
+498,com.redbaby,Shopping,General Feedback,Textual instruction,com.redbaby,Barcode scanning
+499,com.redbaby,Shopping,General Feedback,Pop-up messages,com.redbaby,Barcode scanning
+500,com.redbaby,Shopping,General Feedback,Haptic feedback,com.redbaby,Barcode scanning
+501,com.redbaby,Shopping,General Feedback,Camera frame,com.redbaby OD,Image classification
+502,com.redbaby,Shopping,General Feedback,Graphical instruction,com.redbaby OD,Image classification
+503,com.redbaby,Shopping,General Feedback,Textual instruction,com.redbaby OD,Image classification
+504,com.redbaby,Shopping,General Feedback,Pop-up messages,com.redbaby OD,Image classification
+505,com.redbaby,Shopping,General Feedback,Haptic feedback,com.redbaby OD,Image classification
+506,com.seefoodtechnologies.nothotdog,Entertainment,General Feedback,Pop-up messages,com.seefoodtechnologies.nothotdog,Image classification
+507,com.seefoodtechnologies.nothotdog,Entertainment,General Feedback,Haptic feedback,com.seefoodtechnologies.nothotdog,Image classification
+508,com.shroomid,Education,General Feedback,Camera frame,com.shroomid,Image classification
+509,com.shroomid,Education,General Feedback,Pop-up messages,com.shroomid,Image classification
+510,com.shroomid,Education,General Feedback,Textual instruction,com.shroomid,Image classification
+511,com.shroomid,Education,General Feedback,Haptic feedback,com.shroomid,Image classification
+512,com.shroomid,Education,General Feedback,Graphical instruction,com.shroomid,Image classification
+513,com.stromming.planta.rar,Education,General Feedback,Auditory feedback (Static),com.stromming.planta.rar,Image classification
+514,com.stromming.planta.rar,Education,General Feedback,Graphical instruction,com.stromming.planta.rar,Image classification
+515,com.stromming.planta.rar,Education,General Feedback,Textual instruction,com.stromming.planta.rar,Image classification
+516,com.stromming.planta.rar,Education,General Feedback,Pop-up messages,com.stromming.planta.rar,Image classification
+517,com.thinkdirty.thinkdirtyapp,Shopping,General Feedback,Camera frame,com.thinkdirty.thinkdirtyapp,Barcode scanning
+518,com.thinkdirty.thinkdirtyapp,Shopping,General Feedback,Textual instruction,com.thinkdirty.thinkdirtyapp,Barcode scanning
+519,com.thinkdirty.thinkdirtyapp,Shopping,General Feedback,Pop-up messages,com.thinkdirty.thinkdirtyapp,Barcode scanning
+520,com.ticktalk.imageconverter,Productivity,General Feedback,Pop-up messages,com.ticktalk.imageconverter,Image segmentation
+521,com.uccb.mobile,Finance,General Feedback,Camera frame,com.uccb.mobile,Face detection
+522,com.uccb.mobile,Finance,General Feedback,Textual instruction,com.uccb.mobile,Face detection
+523,com.uccb.mobile,Finance,General Feedback,Haptic feedback,com.uccb.mobile,Face detection
+524,com.uccb.mobile,Finance,General Feedback,Camera frame,com.uccb.mobile,Entity extraction
+525,com.uccb.mobile,Finance,General Feedback,Textual instruction,com.uccb.mobile,Entity extraction
+526,com.uccb.mobile,Finance,General Feedback,Haptic feedback,com.uccb.mobile,Entity extraction
+527,com.uccb.mobile,Finance,General Feedback,Camera frame,com.uccb.mobile QR,Barcode scanning
+528,com.uccb.mobile,Finance,General Feedback,Pop-up messages,com.uccb.mobile QR,Barcode scanning
+529,com.urbandroid.sleep,Lifestyle,General Feedback,Textual instruction,com.urbandroid.sleep,Audio classification
+530,com.urbandroid.sleep,Lifestyle,General Feedback,Pop-up messages,com.urbandroid.sleep,Audio classification
+531,com.vnpay.bidv,Finance,General Feedback,Camera frame,com.vnpay.bidv,Face detection
+532,com.vnpay.bidv,Finance,General Feedback,Pop-up messages,com.vnpay.bidv,Entity extraction
+533,com.wf.funlab,Photography,General Feedback,Camera frame,com.wf.funlab,Face detection
+534,com.wf.funlab,Photography,General Feedback,Graphical instruction,com.wf.funlab,Face detection
+535,com.wf.funlab,Photography,General Feedback,Textual instruction,com.wf.funlab,Face detection
+536,com.wf.funlab,Photography,General Feedback,Pop-up messages,com.wf.funlab,Face detection
+537,com.yitong.hrb.people.android,Finance,General Feedback,Camera frame,com.yitong.hrb.people.android,Face detection
+538,com.yitong.hrb.people.android,Finance,General Feedback,Graphical instruction,com.yitong.hrb.people.android,Face detection
+539,com.yitong.hrb.people.android,Finance,General Feedback,Textual instruction,com.yitong.hrb.people.android,Face detection
+540,com.yitong.hrb.people.android,Finance,General Feedback,Camera frame,com.yitong.hrb.people.android,Entity extraction
+541,com.yitong.hrb.people.android,Finance,General Feedback,Graphical instruction,com.yitong.hrb.people.android,Entity extraction
+542,com.yitong.hrb.people.android,Finance,General Feedback,Textual instruction,com.yitong.hrb.people.android,Entity extraction
+543,com.zhiyun.zyplay,Business,General Feedback,Pop-up messages,com.zhiyun.zyplay,Style transfer
+544,com.zzkko,Shopping,General Feedback,Pop-up messages,com.zzkko,Image classification
+545,cutcut.cut.out.paste.background.remove.photo.cutout,Photography,General Feedback,Graphical instruction,cutcut.cut.out.paste.background.remove.photo.cutout,Selfie segmentation
+546,cutcut.cut.out.paste.background.remove.photo.cutout,Photography,General Feedback,Textual instruction,cutcut.cut.out.paste.background.remove.photo.cutout,Selfie segmentation
+547,facetechstudio.future.me,Entertainment,General Feedback,Camera frame,facetechstudio.future.me,Face detection
+548,com.verisec.mobile.frejaeid,Productivity,General Feedback,Camera frame,Freja eID,Face detection
+549,com.verisec.mobile.frejaeid,Productivity,General Feedback,Graphical instruction,Freja eID,Face detection
+550,com.verisec.mobile.frejaeid,Productivity,General Feedback,Textual instruction,Freja eID,Face detection
+551,com.sixoversix.copyglass,Medical,General Feedback,Camera frame,GlassOn.gif,Face detection
+552,camscanner.documentscanner.pdfreader,Productivity,General Feedback,Textual instruction,camscanner.documentscanner.pdfreader.gif,Image segmentation
+553,camscanner.documentscanner.pdfreader,Productivity,General Feedback,Pop-up messages,camscanner.documentscanner.pdfreader.gif,Image segmentation
+554,com.appculus.photo.pdf.pics2pdf,Productivity,General Feedback,Pop-up messages,com.appculus.photo.pdf.pics2pdf.gif,Image segmentation
+555,com.bitcoin.mwallet,Finance,General Feedback,Camera frame,com.bitcoin.mwallet_sta.gif,Barcode scanning
+556,com.bitcoin.mwallet,Finance,General Feedback,Graphical instruction,com.bitcoin.mwallet_sta.gif,Barcode scanning
+557,com.bitcoin.mwallet,Finance,General Feedback,Textual instruction,com.bitcoin.mwallet_sta.gif,Barcode scanning
+558,com.bitcoin.mwallet,Finance,General Feedback,Pop-up messages,com.bitcoin.mwallet_sta.gif,Barcode scanning
+559,com.charmy.cupist,Photography,General Feedback,Pop-up messages,com.charmy.cupist.gif,Face detection
+560,com.clickworker.clickworkerapp,Communication,General Feedback,Pop-up messages,com.clickworker.clickworkerapp.gif,Face detection
+561,com.etoolkit.lovecollage,Photography,General Feedback,Pop-up messages,com.etoolkit.lovecollage.gif,Face detection
+562,com.everimaging.photoeffectstudio,Photography,General Feedback,Graphical instruction,com.everimaging.photoeffectstudio.gif,Selfie segmentation
+563,com.everimaging.photoeffectstudio,Photography,General Feedback,Textual instruction,com.everimaging.photoeffectstudio.gif,Selfie segmentation
+564,com.everimaging.photoeffectstudio,Photography,General Feedback,Pop-up messages,com.everimaging.photoeffectstudio.gif,Selfie segmentation
+565,com.face.aging.face.truth,Entertainment,General Feedback,Camera frame,com.face.aging.face.truth.gif,Face detection
+566,com.face.aging.face.truth,Entertainment,General Feedback,Textual instruction,com.face.aging.face.truth.gif,Face detection
+567,com.face.aging.face.truth,Entertainment,General Feedback,Pop-up messages,com.face.aging.face.truth.gif,Face detection
+568,com.face.aging.face.truth,Entertainment,General Feedback,Textual instruction,com.face.aging.face.truth_import.gif,Face detection
+569,com.face.aging.face.truth,Entertainment,General Feedback,Pop-up messages,com.face.aging.face.truth_import.gif,Face detection
+570,com.google.android.apps.translate,Tools,General Feedback,Textual instruction,com.google.android.apps.translate.gif,Text recognition
+571,com.google.android.apps.translate,Tools,General Feedback,Textual instruction,com.google.android.apps.translate_sr.gif,Speech recongnition
+572,com.google.android.apps.translate,Tools,General Feedback,Pop-up messages,com.google.android.apps.translate_sr.gif,Speech recongnition
+573,com.google.android.googlequicksearchbox,Tools,General Feedback,Camera frame,com.google.android.googlequicksearchbox_icSearch.gif,Image classification
+574,com.google.android.googlequicksearchbox,Tools,General Feedback,Graphical instruction,com.google.android.googlequicksearchbox_icSearch.gif,Image classification
+575,com.google.android.googlequicksearchbox,Tools,General Feedback,Textual instruction,com.google.android.googlequicksearchbox_icSearch.gif,Image classification
+576,com.krungsri.uchoose,Finance,General Feedback,Graphical instruction,com.krungsri.uchoose.gif,Entity extraction
+577,com.krungsri.uchoose,Finance,General Feedback,Textual instruction,com.krungsri.uchoose.gif,Entity extraction
+578,com.krungsri.uchoose,Finance,General Feedback,Pop-up messages,com.krungsri.uchoose.gif,Entity extraction
+579,com.krungsri.uchoose,Finance,General Feedback,Camera frame,com.krungsri.uchoose.gif,Entity extraction
+580,com.mventus.ncell.activity,Tools,General Feedback,Camera frame,com.mventus.ncell.activity.gif,Entity extraction
+581,com.mventus.ncell.activity,Tools,General Feedback,Textual instruction,com.mventus.ncell.activity.gif,Entity extraction
+582,com.myyearbook.m,Photography,General Feedback,Textual instruction,com.myyearbook.m.gif,Face detection
+583,com.myyearbook.m,Photography,General Feedback,Pop-up messages,com.myyearbook.m.gif,Face detection
+584,com.myyearbook.m,Photography,General Feedback,Graphical instruction,com.myyearbook.m.gif,Face detection
+585,com.myyearbook.m,Photography,General Feedback,Pop-up messages,"com.myyearbook.m_import.gif""",Face detection
+586,com.superlive.liveapp,Social,General Feedback,Graphical instruction,com.superlive.liveapp.gif,Face detection
+587,com.superlive.liveapp,Social,General Feedback,Textual instruction,com.superlive.liveapp.gif,Face detection
+588,com.ticktalk.imageconverter,Productivity,General Feedback,Pop-up messages,com.ticktalk.imageconverter.gif,Image segmentation
+589,net.idt.um.android.bossrevapp,Communication,General Feedback,Pop-up messages,com.ticktalk.imageconverter.gif,Face detection
+590,com.trove,Health and Fitness,General Feedback,Camera frame,com.trove.gif,Face detection
+591,com.trove,Health and Fitness,General Feedback,Textual instruction,com.trove.gif,Face detection
+592,com.trove,Health and Fitness,General Feedback,Pop-up messages,com.trove.gif,Face detection
+593,com.trulymadly.android.app,Lifestyle,General Feedback,Pop-up messages,com.trulymadly.android.app.gif,Face detection
+594,com.trulymadly.android.app,Lifestyle,General Feedback,Camera frame,com.trulymadly.android.app.gif,Face detection
+595,com.vnpay.bidv,Finance,General Feedback,Graphical instruction,com.vnpay.bidv.gif,Entity extraction
+596,com.vnpay.bidv,Finance,General Feedback,Camera frame,com.vnpay.bidv.gif,Entity extraction
+597,com.vnpay.bidv,Finance,General Feedback,Textual instruction,com.vnpay.bidv.gif,Entity extraction
+598,com.yantech.zoomerang,Entertainment,General Feedback,Pop-up messages,com.yantech.zoomerang.gif,Face detection
+599,com.yochat.freechat,Social,General Feedback,Pop-up messages,com.yochat.freechat.gif,Face detection
+600,com.zhiyun.zyplay,Business,General Feedback,Pop-up messages,com.zhiyun.zyplay.gif,Style transfer
+601,de.orrs.deliveries,Productivity,General Feedback,Camera frame,de.orrs.deliveries.gif,Barcode scanning
+602,io.voiapp.voi,Business,General Feedback,Camera frame,io.voiapp.voi.gif,Entity extraction
+603,io.voiapp.voi,Business,General Feedback,Flashlight,io.voiapp.voi.gif,Entity extraction
+604,jp.co.appfactory.birdun,Entertainment,General Feedback,Camera frame,jp.co.appfactory.birdun.gif,Face detection
+605,jp.co.appfactory.birdun,Entertainment,General Feedback,Graphical instruction,jp.co.appfactory.birdun.gif,Face detection
+606,jp.co.appfactory.birdun,Entertainment,General Feedback,Pop-up messages,jp.co.appfactory.birdun.gif,Face detection
+607,mingle.android.mingle2,Photography,General Feedback,Pop-up messages,mingle.android.mingle2.gif,Face detection
+608,tv.mixch.android,Social,General Feedback,Pop-up messages,tv.mixch.android.gif,Face detection
+609,com.google.android.apps.translate,Tools,General Feedback,Textual instruction,https://raw.githubusercontent.com/jasonxsiu/GalleryImages/main/Gif/com.google.android.apps.translate_txtReg_handwrite.gif,Text recognition
+610,io.anyline.examples.store,Tools,General Feedback,Camera frame,io.anyline.examples.store cattle dy,Image classification
+611,io.anyline.examples.store,Tools,General Feedback,Flashlight,io.anyline.examples.store cattle dy,Image classification
+612,io.anyline.examples.store,Tools,General Feedback,Haptic feedback,io.anyline.examples.store cattle dy,Image classification
+613,io.anyline.examples.store,Tools,General Feedback,Camera frame,io.anyline.examples.store plate sta dy,Entity extraction
+614,io.anyline.examples.store,Tools,General Feedback,Flashlight,io.anyline.examples.store plate sta dy,Entity extraction
+615,io.anyline.examples.store,Tools,General Feedback,Haptic feedback,io.anyline.examples.store plate sta dy,Entity extraction
+616,machinelearning.tensorflow.classifier,Tools,General Feedback,Pop-up messages,machinelearning.tensorflow.classifier,Image classification
+617,machinelearning.tensorflow.speech,Education,General Feedback,Pop-up messages,machinelearning.tensorflow.speech,Audio classification
+618,machinelearning.tensorflow.speech,Education,General Feedback,Textual instruction,machinelearning.tensorflow.speech,Audio classification
+619,cn.fundview.agriculturemarket,Lifestyle,General Feedback,Graphical instruction,cn.fundview.agriculturemarket,Image segmentation
+620,co.doscan.connect.pdf.gp,Tools,General Feedback,Pop-up messages,co.doscan.connect.pdf.gp,Image segmentation
+621,com.aaa.ame.ind,Photography,General Feedback,Camera frame,com.aaa.ame.ind,Face detection
+622,com.aaa.ame.ind,Photography,General Feedback,Pop-up messages,com.aaa.ame.ind,Face detection
+623,com.adam.surrounding_sounds_recognition,Productivity,General Feedback,Flashlight,com.adam.surrounding_sounds_recognition,Audio classification
+624,com.adam.surrounding_sounds_recognition,Productivity,General Feedback,Pop-up messages,com.adam.surrounding_sounds_recognition,Audio classification
+625,com.adam.surrounding_sounds_recognition,Productivity,General Feedback,Haptic feedback,com.adam.surrounding_sounds_recognition,Audio classification
+626,com.aresmob.scantranslator,Tools,General Feedback,Camera frame,com.aresmob.scantranslator,Image classification
+627,com.aresmob.scantranslator,Tools,General Feedback,Pop-up messages,com.aresmob.scantranslator,Image classification
+628,com.aresmob.scantranslator,Tools,General Feedback,Camera frame,com.aresmob.scantranslator,Text recognition
+629,com.aresmob.scantranslator,Tools,General Feedback,Textual instruction,com.aresmob.scantranslator,Text recognition
+630,com.aresmob.scantranslator,Tools,General Feedback,Pop-up messages,com.aresmob.scantranslator,Text recognition
+631,com.bang.bangwithfriends,Dating,General Feedback,Pop-up messages,com.bang.bangwithfriends,Face detection
+632,com.camera.galaxyx,Photography,General Feedback,Pop-up messages,com.camera.galaxyx,Face detection
+633,com.cimb.smart.prod,Finance,General Feedback,Camera frame,com.cimb.smart.prod,Face detection
+634,com.cimb.smart.prod,Finance,General Feedback,Graphical instruction,com.cimb.smart.prod,Face detection
+635,com.cimb.smart.prod,Finance,General Feedback,Textual instruction,com.cimb.smart.prod,Face detection
+636,com.cimb.smart.prod,Finance,General Feedback,Pop-up messages,com.cimb.smart.prod,Face detection
+637,com.dailyhoroscope.facesecret,Entertainment,General Feedback,Pop-up messages,com.dailyhoroscope.facesecret,Face detection
+638,com.dengtacj.stock,Finance,General Feedback,Camera frame,com.dengtacj.stock,Face detection
+639,com.dengtacj.stock,Finance,General Feedback,Graphical instruction,com.dengtacj.stock,Face detection
+640,com.dengtacj.stock,Finance,General Feedback,Textual instruction,com.dengtacj.stock,Face detection
+641,com.dengtacj.stock,Finance,General Feedback,Pop-up messages,com.dengtacj.stock,Face detection
+642,com.fenbi.android.leo,Education,General Feedback,Camera frame,com.fenbi.android.leo,Text recognition
+643,com.fenbi.android.leo,Education,General Feedback,Graphical instruction,com.fenbi.android.leo,Text recognition
+644,com.fenbi.android.leo,Education,General Feedback,Textual instruction,com.fenbi.android.leo,Text recognition
+645,com.fenbi.android.leo,Education,General Feedback,Pop-up messages,com.fenbi.android.leo,Text recognition
+646,com.futureme.palmreader,Entertainment,General Feedback,Camera frame,com.futureme.palmreader,Face detection
+647,com.futureme.palmreader,Entertainment,General Feedback,Pop-up messages,com.futureme.palmreader,Face detection
+648,com.ghost.sibyl,Lifestyle,General Feedback,Camera frame,com.ghost.sibyl,Face detection
+649,com.ghost.sibyl,Lifestyle,General Feedback,Pop-up messages,com.ghost.sibyl,Face detection
+650,com.good.doc.scanner,Tools,General Feedback,Textual instruction,com.good.doc.scanner,Image segmentation
+651,com.good.doc.scanner,Tools,General Feedback,Pop-up messages,com.good.doc.scanner,Image segmentation
+652,com.iart.camera.photo,Photography,General Feedback,Pop-up messages,com.iart.camera.photo,Face detection
+653,com.junruy.cgfyj,Tools,General Feedback,Textual instruction,com.junruy.cgfyj,Image segmentation
+654,com.junruy.cgfyj,Tools,General Feedback,Pop-up messages,com.junruy.cgfyj,Image segmentation
+655,com.junruy.cgfyj,Tools,General Feedback,Haptic feedback,com.junruy.cgfyj,Image segmentation
+656,com.junruy.cgfyj,Tools,General Feedback,Camera frame,com.junruy.cgfyj,Text recognition
+657,com.junruy.cgfyj,Tools,General Feedback,Pop-up messages,com.junruy.cgfyj,Text recognition
+658,com.kaiqi.videoae,Photography,General Feedback,Pop-up messages,com.kaiqi.videoae,Style transfer
+659,com.kaiqi.videoae,Photography,General Feedback,Textual instruction,com.kaiqi.videoae,Selfie segmentation
+660,com.kaiqi.videoae,Photography,General Feedback,Pop-up messages,com.kaiqi.videoae,Selfie segmentation
+661,com.mobile.doc.scanner.pdfscanner.documentscanner.tool,Tools,General Feedback,Pop-up messages,com.mobile.doc.scanner.pdfscanner.documentscanner.tool,Image segmentation
+662,com.newegg.app,Shopping,General Feedback,Pop-up messages,com.newegg.app,Face detection
+663,com.nowarder.translatorfotoscan,Tools,General Feedback,Textual instruction,com.nowarder.translatorfotoscan,Image segmentation
+664,com.nowarder.translatorfotoscan,Tools,General Feedback,Pop-up messages,com.nowarder.translatorfotoscan,Image segmentation
+665,com.p1.mobile.putong,Social,General Feedback,Pop-up messages,com.p1.mobile.putong,Face detection
+666,com.palmistry.horoscope.zodiacsign,Entertainment,General Feedback,Camera frame,com.palmistry.horoscope.zodiacsign,Face detection
+667,com.palmistry.horoscope.zodiacsign,Entertainment,General Feedback,Pop-up messages,com.palmistry.horoscope.zodiacsign,Face detection
+668,com.paygo24.ibank,Finance,General Feedback,Pop-up messages,com.paygo24.ibank,Image classification
+669,com.picstudio.photoeditorplus,Photography,General Feedback,Camera frame,com.picstudio.photoeditorplus,Face detection
+670,com.picstudio.photoeditorplus,Photography,General Feedback,Pop-up messages,com.picstudio.photoeditorplus,Face detection
+671,com.pictureme.photoeditor.picstudio,Photography,General Feedback,Camera frame,com.pictureme.photoeditor.picstudio,Face detection
+672,com.pictureme.photoeditor.picstudio,Photography,General Feedback,Pop-up messages,com.pictureme.photoeditor.picstudio,Face detection
+673,com.qrcode.scanner.barcode.reader.creator.free,Tools,General Feedback,Camera frame,com.qrcode.scanner.barcode.reader.creator.free,Image segmentation
+674,com.qrcode.scanner.barcode.reader.creator.free,Tools,General Feedback,Graphical instruction,com.qrcode.scanner.barcode.reader.creator.free,Image segmentation
+675,com.qrcode.scanner.barcode.reader.creator.free,Tools,General Feedback,Textual instruction,com.qrcode.scanner.barcode.reader.creator.free,Image segmentation
+676,com.rnfdigital.eastNWest,Food and Drink,General Feedback,Pop-up messages,com.rnfdigital.eastNWest,Face detection
+677,com.rnfdigital.mjbaker,Food and Drink,General Feedback,Pop-up messages,com.rnfdigital.mjbaker,Face detection
+678,com.siwalusoftware.dogscanner,Education,General Feedback,Graphical instruction,com.siwalusoftware.dogscanner,Image classification
+679,com.siwalusoftware.dogscanner,Education,General Feedback,Textual instruction,com.siwalusoftware.dogscanner,Image classification
+680,com.siwalusoftware.dogscanner,Education,General Feedback,Pop-up messages,com.siwalusoftware.dogscanner,Image classification
+681,com.siwalusoftware.dogscanner,Education,General Feedback,Haptic feedback,com.siwalusoftware.dogscanner,Image classification
+682,com.sixoversix.copyglass,Medical,General Feedback,Graphical instruction,com.sixoversix.copyglass,Image classification
+683,com.sixoversix.copyglass,Medical,General Feedback,Textual instruction,com.sixoversix.copyglass,Image classification
+684,com.sixoversix.copyglass,Medical,General Feedback,Pop-up messages,com.sixoversix.copyglass,Image classification
+685,com.sixoversix.copyglass,Medical,General Feedback,Haptic feedback,com.sixoversix.copyglass,Image classification
+686,com.sixoversix.copyglass,Medical,General Feedback,Graphical instruction,com.sixoversix.copyglass,Face detection
+687,com.sixoversix.copyglass,Medical,General Feedback,Textual instruction,com.sixoversix.copyglass,Face detection
+688,com.sixoversix.copyglass,Medical,General Feedback,Haptic feedback,com.sixoversix.copyglass,Face detection
+689,com.snapgify,Photography,General Feedback,Textual instruction,com.snapgify,Selfie segmentation
+690,com.snapgify,Photography,General Feedback,Pop-up messages,com.snapgify,Selfie segmentation
+691,com.snapgify,Photography,General Feedback,Pop-up messages,com.snapgify,Style transfer
+692,com.steam.photoeditor,Photography,General Feedback,Camera frame,com.steam.photoeditor,Face detection
+693,com.steam.photoeditor,Photography,General Feedback,Pop-up messages,com.steam.photoeditor,Face detection
+694,com.tq.master,Entertainment,General Feedback,Camera frame,com.tq.master,Face detection
+695,com.tq.master,Entertainment,General Feedback,Pop-up messages,com.tq.master,Face detection
+696,com.tyndale.filament,Lifestyle,General Feedback,Camera frame,com.tyndale.filament,Text recognition
+697,com.tyndale.filament,Lifestyle,General Feedback,Textual instruction,com.tyndale.filament,Text recognition
+698,com.tyndale.filament,Lifestyle,General Feedback,Pop-up messages,com.tyndale.filament,Text recognition
+699,com.ultra.miui12.camera.for.xiaomi,Photography,General Feedback,Graphical instruction,com.ultra.miui12.camera.for.xiaomi,Face detection
+700,com.ultra.miui12.camera.for.xiaomi,Photography,General Feedback,Textual instruction,com.ultra.miui12.camera.for.xiaomi,Face detection
+701,com.ultra.miui12.camera.for.xiaomi,Photography,General Feedback,Pop-up messages,com.ultra.miui12.camera.for.xiaomi,Face detection
+702,com.unicredit,Productivity,General Feedback,Pop-up messages,com.unicredit,Image segmentation
+703,com.uzero.baimiaog,Productivity,General Feedback,Textual instruction,com.uzero.baimiaog,Image segmentation
+704,com.uzero.baimiaog,Productivity,General Feedback,Pop-up messages,com.uzero.baimiaog,Image segmentation
+705,com.video.mini,Dating,General Feedback,Pop-up messages,com.video.mini,Face detection
+706,com.wAshMessenger_8787254,Communication,General Feedback,Pop-up messages,com.wAshMessenger_8787254,Face detection
+707,com.wrste.jiduscanning,Productivity,General Feedback,Pop-up messages,com.wrste.jiduscanning,Image segmentation
+708,com.xindihe.cgfyb,Tools,General Feedback,Camera frame,com.xindihe.cgfyb,Text recognition
+709,com.xindihe.cgfyb,Tools,General Feedback,Pop-up messages,com.xindihe.cgfyb,Text recognition
+710,com.yondor.student,Education,General Feedback,Graphical instruction,com.yondor.student,Image segmentation
+711,com.yondor.student,Education,General Feedback,Textual instruction,com.yondor.student,Image segmentation
+712,com.yondor.student,Education,General Feedback,Pop-up messages,com.yondor.student,Image segmentation
+713,com.yrjf.qju.oqo,Productivity,General Feedback,Pop-up messages,com.yrjf.qju.oqo,Image segmentation
+714,com.yumika.wastickr,Education,General Feedback,Graphical instruction,com.yumika.wastickr,Selfie segmentation
+715,com.yumika.wastickr,Education,General Feedback,Textual instruction,com.yumika.wastickr,Selfie segmentation
+716,com.yumika.wastickr,Education,General Feedback,Pop-up messages,com.yumika.wastickr,Selfie segmentation
+717,com.zivn.cloudbrush3,Education,General Feedback,Pop-up messages,com.zivn.cloudbrush3,Image segmentation
+718,com.zsd.upi.xwa,Photography,General Feedback,Pop-up messages,com.zsd.upi.xwa,Face detection
+719,cz.moneta.smartbanka,Finance,General Feedback,Camera frame,cz.moneta.smartbanka,Face detection
+720,cz.moneta.smartbanka,Finance,General Feedback,Graphical instruction,cz.moneta.smartbanka,Face detection
+721,cz.moneta.smartbanka,Finance,General Feedback,Textual instruction,cz.moneta.smartbanka,Face detection
+722,cz.moneta.smartbanka,Finance,General Feedback,Pop-up messages,cz.moneta.smartbanka,Face detection
+723,daily.face.horoscope.zodiac,Entertainment,General Feedback,Camera frame,daily.face.horoscope.zodiac,Face detection
+724,daily.face.horoscope.zodiac,Entertainment,General Feedback,Pop-up messages,daily.face.horoscope.zodiac,Face detection
+725,faceapp.magikoly.exploreandhavefun,Entertainment,General Feedback,Camera frame,faceapp.magikoly.exploreandhavefun,Face detection
+726,faceapp.magikoly.exploreandhavefun,Entertainment,General Feedback,Pop-up messages,faceapp.magikoly.exploreandhavefun,Face detection
+727,horoscope.secret.zodiac.palmistry.face,Entertainment,General Feedback,Camera frame,horoscope.secret.zodiac.palmistry.face,Face detection
+728,horoscope.secret.zodiac.palmistry.face,Entertainment,General Feedback,Pop-up messages,horoscope.secret.zodiac.palmistry.face,Face detection
+729,horoscope.zodiac.love.master,Entertainment,General Feedback,Camera frame,horoscope.zodiac.love.master,Face detection
+730,horoscope.zodiac.love.master,Entertainment,General Feedback,Pop-up messages,horoscope.zodiac.love.master,Face detection
+731,jp.ne.benesse.chui.akapen.camera,Education,General Feedback,Graphical instruction,jp.ne.benesse.chui.akapen.camera,Image segmentation
+732,jp.ne.benesse.chui.akapen.camera,Education,General Feedback,Textual instruction,jp.ne.benesse.chui.akapen.camera,Image segmentation
+733,jp.ne.benesse.chui.akapen.camera,Education,General Feedback,Pop-up messages,jp.ne.benesse.chui.akapen.camera,Image segmentation
+734,ro.ing.mobile.banking.android.activity,Finance,General Feedback,Graphical instruction,ro.ing.mobile.banking.android.activity,Face detection
+735,ro.ing.mobile.banking.android.activity,Finance,General Feedback,Textual instruction,ro.ing.mobile.banking.android.activity,Face detection
+736,ro.ing.mobile.banking.android.activity,Finance,General Feedback,Pop-up messages,ro.ing.mobile.banking.android.activity,Face detection
+737,tv.mola.app,Entertainment,General Feedback,Pop-up messages,tv.mola.app,Face detection
+738,pl.roslin.atlas,Education,General Feedback,Camera frame,pl.roslin.atlas,Image classification
+739,pl.roslin.atlas,Education,General Feedback,Graphical instruction,pl.roslin.atlas,Image classification
+740,pl.roslin.atlas,Education,General Feedback,Textual instruction,pl.roslin.atlas,Image classification
+741,pl.roslin.atlas,Education,General Feedback,Pop-up messages,pl.roslin.atlas,Image classification
+742,pl.roslin.atlas,Education,General Feedback,Haptic feedback,pl.roslin.atlas,Image classification
+743,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Education,General Feedback,Camera frame,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Image classification
+744,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Education,General Feedback,Graphical instruction,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Image classification
+745,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Education,General Feedback,Textual instruction,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Image classification
+746,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Education,General Feedback,Pop-up messages,plant.identification.flower.tree.leaf.identifier.identify.cat.dog.breed.nature,Image classification
+747,plantvillage.nuru,Education,General Feedback,Graphical instruction,plantV.mp4,Image classification
+748,plantvillage.nuru,Education,General Feedback,Textual instruction,plantV.mp4,Image classification
+749,plantvillage.nuru,Education,General Feedback,Pop-up messages,plantV.mp4,Image classification
+750,plantvillage.nuru,Education,General Feedback,Haptic feedback,plantV.mp4,Image classification
+751,plantvillage.nuru,Education,General Feedback,Graphical instruction,plantV.mp4,Object detection and tracking
+752,plantvillage.nuru,Education,General Feedback,Textual instruction,plantV.mp4,Object detection and tracking
+753,plantvillage.nuru,Education,General Feedback,Pop-up messages,plantV.mp4,Object detection and tracking
+754,plantvillage.nuru,Education,General Feedback,Haptic feedback,plantV.mp4,Object detection and tracking
+755,https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android,Libraries and Demo,General Feedback,Pop-up messages,tflite,Object detection and tracking
+756,tw.com.quickscanner.invoice,Productivity,General Feedback,Camera frame,tw.com.quickscanner.invoice,Barcode scanning
+757,tw.com.quickscanner.invoice,Productivity,General Feedback,Graphical instruction,tw.com.quickscanner.invoice,Barcode scanning
+758,tw.com.quickscanner.invoice,Productivity,General Feedback,Textual instruction,tw.com.quickscanner.invoice,Barcode scanning
+759,tw.com.quickscanner.invoice,Productivity,General Feedback,Pop-up messages,tw.com.quickscanner.invoice,Barcode scanning
